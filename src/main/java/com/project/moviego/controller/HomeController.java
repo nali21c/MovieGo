@@ -47,7 +47,6 @@ public class HomeController {
 		
 		model.addAttribute("selectTableList", testList);
 		
-		//return "home";
 		return "login";
 	}
 	
